@@ -1,0 +1,12 @@
+modelo <- funcion_objetivo(y ~ x, data = data.frame, ...)
+
+VR ~ VE
+VR ~ VE1 + VE2 + VEn.... (analisis univariado)
+VR1 + VR2 + VRn + ... ~ VE1 + VE2 + VEn.... (analisis multi-univariado)
+
+
+
+
+ggplot(aes(x = X, y = Y), data = data.frame) + ....
+
+
