@@ -1,3 +1,5 @@
+![alt test](/R.jpg)
+
 # -R_Workshop-Day03
 Day03 of the 3-day R Workshop associated to https://www.youtube.com/c/maikelmendez
 https://www.youtube.com/watch?v=ykX7Opd-F2w&list=PLeLqm9hls71fGhejxbcLtoee5DCuW0rE4
